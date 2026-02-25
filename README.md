@@ -1,13 +1,11 @@
 # PSE-Agile-Software
 
-Project title:
-Chosen SDG:
-Project Description:
+Project title: Where's My Water?
+Chosen SDG: SDG 6
+Project Description: A map of water coolers around the campus. Encorages users to use reusable water bottles. It helps students on the campus.
 SDLC Work Overview:
 
-Team members role:
-
-Shetal:
-Khai Ern:
-Munirah:
-
+Name roles:
+Shetal: Presentation slides, UI/UX Sketch/Brainstorm, 
+Ng Khai Ern: Presentation slides, UI/UX Sketch/Brainstorm,
+Nur Saidatul Munirah: Presentation slides, UI/UX Sketch/Brainstorm,
