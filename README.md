@@ -6,6 +6,6 @@ Project Description: A map of water coolers around the campus. Encorages users t
 SDLC Work Overview:
 
 Name roles:
-Shetal: Presentation slides, UI/UX Sketch/Brainstorm, 
-Ng Khai Ern: Presentation slides, UI/UX Sketch/Brainstorm,
-Nur Saidatul Munirah: Presentation slides, UI/UX Sketch/Brainstorm,
+Shetal: Scrum Master 
+Ng Khai Ern: Developer
+Nur Saidatul Munirah: Developer
