@@ -1,1 +1,5 @@
 UC & Class Diagrams drafts, Wireframes, mockups, related diagrams
+
+### Design Notes:
+The Use Case Diagram covers 5 actors: User, Staff, and 3 Admin sub-roles: Technician, Facilities Manager, and Primary Admin
+The Class Diagram represents the Java back-end structure for Stations and Reports.
