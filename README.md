@@ -19,8 +19,10 @@ Ng Khai Ern: Developer
 Nur Saidatul Munirah: Developer
 
 ### Figma Prototype Walkthrough
+Prototype link: https://www.figma.com/design/sWI0PxSuF8SkQzJHWkjMoQ/Where-s-My-Water?node-id=0-1&t=c8aahIAFlbWBTghd-1
+
 1. Accessing the Prototype
-Open the (prototype link).
+Open the prototype link.
 Click the "Present" (Play icon) in the top right corner.
 Tip: If the screen is too zoomed in, press 'Z' on your keyboard twice to fit the prototype to your screen.
 
