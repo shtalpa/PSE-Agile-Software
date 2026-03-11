@@ -3,7 +3,7 @@ Goal: Define the core user journey and create a "Low-Fidelity" clickable wirefra
 
 Activities:
 - Identified SDG 6 (Clean Water) goals and how they apply to our campus.
-- Drafted the 5 core User Stories.
+- Drafted the 10 core User Stories.
 - Created initial UI sketches for the 6-level campus map in Figma.
 - Mapped out the Use Case Diagram to define Admin vs. Student boundaries.
 
